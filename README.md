@@ -1,6 +1,4 @@
-
-##Programming by Doing by Graham Mitchell
-
+# Programming by Doing by Graham Mitchell
 
 Learn Java the hard way: https://programmingbydoing.com/
 
